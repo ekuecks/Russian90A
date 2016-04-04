@@ -280,7 +280,7 @@ Russian Folklore
             i. Russian version of the Pheonix
             ii. Magical feathers
             iii. Easy to catch when the bird is eating
-            iv. Stravinsky \texit{The Firebird} (1910)
+            iv. Stravinsky \textit{The Firebird} (1910)
         * Vasilisa the Beautiful
             i. Merchant's Daughter
             ii. Her mother died when she was young
