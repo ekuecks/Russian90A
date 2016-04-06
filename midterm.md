@@ -8,7 +8,12 @@ Discussion Questions
     - 5. Be able to identify the main historical periods from the 10th century to the present. 
 2. Week 2
     - 1. What period is known as Kievan Rus? What is the relevance of the name now?
+        * 9th - 13th century
+        * Kiev is currently the capital of Ukraine, but is important to the Russian identity
     - 2. When were Russians baptized? What Prince is credited with choosing Eastern Christianity as the main religion? What legend is associated with this decision?
+        * 988 (NEED TO KNOW)
+        * Prince Vladimir
+        * He sent out people to examine how all the main religions worshipped and they found Greek Orthodox to be the best
     - 3. What is the ‘schism’? Who are the old believers and why are they still relevant today?
     - 4. What is meant by monasticism and monastic culture? 
 3. Week 3
@@ -349,7 +354,7 @@ Kievan Rus' (9th - 13th century)
         * Ancient Greek city
         * Split by Holy Roman Emperor to Constantinople
     - Differences between Western and Eastern Christianity
-        * Trinity: Father, SOn, Holy Spirit
+        * Trinity: Father, Son, Holy Spirit
         * In Catholicism, Holy Spirit originates from the Father and the Son, Eastern -> only Father
         * Eastern has icons, not statues
         * Eastern priests can get married
@@ -362,3 +367,38 @@ Kievan Rus' (9th - 13th century)
         * Orthodox has always been conducted in local languages, not Latin or Greek
         * Why do you think Eastern Orthodoxy was important for the future of Russia?
         * Why may it still be important today?
+    - Eastern Orthodoxy kept Russia from being westernized
+    - Allied them by default with those of the same religion (Greece)
+    - Able to use Russian for church service (as opposed to Catholicism/Judaism/Islam which would have used different languages)
+10. Russian Orthodox Icons
+    - Icons are not paintings but images to pray to
+    - Icons are "written" on wooden panels
+    - Some icons are not "hand written" but miraculously appeared
+    - Icons are mostly "copies" of earlier icons
+    - Names of icon painters are not well known with a few exceptions
+        * Andrey Rublev
+    - Icons of common Christian and Russian saints
+    - Most common icons are of God's Mother (Virgin Mary). They are known by the city where they were "written"
+    - Many icons destroyed in Soviet times. New ones are produced now
+11. Church Interior
+    - Icons instead of statues like a Catholic church
+    - Iconostasis
+        * Wall covered in icons in front of the sanctuary
+    - The Red Corner
+        * Corner of the Church facing East decorated with icons
+        * Red = beautiful in Russian
+12. Church Architecture
+    - Multiple domes with crosses
+    - Onion-shaped or helmet-shaped dome
+    - Belfry with multiple bells
+    - Materials: brick, white stone, wood (no marble)
+13. Monasticism: Monasteries, Elders, God's People
+    - The Holy Fool
+        * Fool not really a negative term
+        * Dressed in rags and keep to themselves
+        * Lived in monasteries but separte from monks
+        * Someone close to God and different from others
+14. The Epiphany
+    - In January people dip themselves in icy water to celebrate the baptism of Jesus
+15. Religious Schism
+    
