@@ -15,10 +15,14 @@ Discussion Questions
         * Prince Vladimir
         * He sent out people to examine how all the main religions worshipped and they found Greek Orthodox to be the best
     - 3. What is the ‘schism’? Who are the old believers and why are they still relevant today?
+        * Schism was when Patriarch Nikon wanted to reform the church to earlier (Byzantine) practices in 17th century
+        * Old believers were conservatives that didn't want to change from the Russian ways
     - 4. What is meant by monasticism and monastic culture? 
+        * Living in a monastery, monks
 3. Week 3
     - 1. When was Russian territory invaded by Mongols?
     - 2. What period is known as ‘Mongol yoke’?
+        * 1237-1480
     - 3. What was the significance of that period for Russian history? How is it remembered?
     - 4. What were Ivan the IV (Terrible) achievements? Why is he known as ‘the terrible/awe inspiring”?
     - 5. Why was the attitude to Ivan during the Stalin’s times?
@@ -339,6 +343,7 @@ Kievan Rus' (9th - 13th century)
         * Possibly invaded moreso than invited
         * Possibly called Rus after the Varangian tribe
         * Rurik became only ruler and gave land to Boyars (noblemen) and Boyaryna (noblewomen)
+        * Druzhina -- armies of boyars
 8. Early Russian Princes
     - Scandinavian names
     - Prince Igor Rurikovich (protagonist of a famous legend and opera)
@@ -396,9 +401,103 @@ Kievan Rus' (9th - 13th century)
     - The Holy Fool
         * Fool not really a negative term
         * Dressed in rags and keep to themselves
-        * Lived in monasteries but separte from monks
+        * Lived in monasteries but separate from monks
         * Someone close to God and different from others
+        * Sometimes a subject of a saint's cult
+        * Lives a voluntary behavior displaying their lowliness and uncleanliness
+        * Brings others back to Christ by confronting and shocking them with holy foolishness
+        * Travel and beg for lodging and food
+        * Started around 15th century
+        * Heyday in 16th and 17th centuries
+        * In Muscovy times, holy fools had access to the rulers and were their "walking conscience"
 14. The Epiphany
     - In January people dip themselves in icy water to celebrate the baptism of Jesus
 15. Religious Schism
-    
+    - Raskol: "Break into pieces"
+16. Old Believers
+    - Had to escape Russia in 17th/18th century
+    - Patriarch Nikon wanted to reform the church to earlier (Byzantine) practices (17th century)
+    - Archpriest Avvakum became the leader of the Old Believers
+    - Old Believers only recognize saints canonized before the schism
+    - Russian Orthodoxy as the religion of the chosen people (Third Rome)
+    - Keeping the flame of true faith
+    - Cross with 2 fingers instead of 3
+    - Kneel, not just bow
+    - Double Alleluia
+    - Spelling of Jesus with 1 "I" instead of 2 (as proposed by Nikon)
+17. Quiz Info
+    - V. Surikov "Boyarina Morozova" (1884-1887)
+
+Music
+=====
+1. Russian Opera
+    - What musical traditions existed in Russia before the development of opera?
+    - What cultural circumstances in the early nineteenth century shaped the Russian operatic tradition?
+    - What groups of Russian composers aimed to create a Russian national style of music?
+    - What are 2 examples of important Russian operas on historical topics? On folkloric topics?
+    - How do operas like Rimsky-Korsakov's Sadko combine Russia's early musical traditions with Western musical forms?
+2. Music of the Russian Orthodox church
+    - Russian services always sung
+    - Use 8 modes of the Greek orthodox church (Octoechos) (Os'moglasie)
+    - Use of particular chants were originally tied to the weekly, seasonal, and yearly cycles in the worship of the Church
+    - Service book (Os'moglasnik)
+    - Called penie (singing)
+        * Compared to muzyka (general music)
+    - Church distances itself from pagan worship by forbidding instruments
+    - In language called Church Slavic
+    - Music known as znammenyi chant
+        * Monophonic: one melody sung in unison by entire choir
+        * Following the schism, added polyphonic music (Western style) to the services but Old Believers preserve monophonic
+3. Russian folk music
+    - Podgoloski (little under-voicings) as "folk polyphony"
+    - Used instruments, particularly stringed ones
+    - Byliny (Russian folk epics)
+        * Accompanined by string instruments and sung
+        * Igor Tale (12th-13th century) later set as an opera by Aleksander Borodin, narrator is a bard and accompanies himself on the gusli
+        * Dvoeverie (dual belief) is a feature of these epics. Admixture of Christian and pre-Christian beliefs
+4. Classical Music and Opera in Eighteenth Century Russia
+    - Peter the Great's Westernization continued the influx of Western music into Russia that began with church reforms
+    - "opera" Latin plural of "opus"
+    - Russian Emperors (notably Catherine the Great) employed Western (mostly Italian) composers in their courts
+    - First Russian opera written by Italian composers with Italian libretti
+5. Cultural background on 19th-Century Russian Opera
+    - Johann Gottfried Herder and folkstunmichkeit (folkishness)
+        * Language, not political or religious affiliation, as the main constitutive features of culture and nationality
+        * Collected, annotated, transcribed Russian folk songs
+        * Music of the 19th century in Russia and West preoccupied with capturing the folkishness of the nature by incorporating folk melodies and themes
+6. Cultural Background
+    - 1825 Decembrist revolt (Orthodoxy, Autocracy, Nationality)
+    - Slavophiles and Westerners
+7. Operas
+    - A Life for the Tsar - Glinka
+        * First opera in Russian
+        * Subheading: "Patriotic Heroic-Tragic Opera" 
+        * Story takes place in Russia's only succession crisis (Time of Troubles 1598-1613)
+        * Official nationalism of Nikolai I "Orthodoxy, Autocracy, Nationality"
+        * Plot: Peasant Ivan Susenin protects the newly elected Mikhail Romanov from being captured and killed by supporters of the Polish succession to the throne
+    - "Mighty 5"
+        * Mily Balakirev (1827-1910)
+        * Modest Musorgsky (1839-1881)
+        * Aleksander Borodin (1833-1887)
+        * Cesar Cui (1835-1918)
+        * Nikolai Rimsky-Korsakov (1844-1908)
+        * St. Petersburg Conservatory, the first in Russia, was established in 1862 by Anton Rubenstein
+    - Musorgsky's Boris Godunov
+        * Based off of Pyshkin's drama of the same title
+        * Takes place during Time of Troubles
+        * Libretto uses lines directly from the text with some additions by Musorgsky
+        * Appearance of the "holy fool" at the end -- Seen as the conscience of Russia, prophets of where the nation is going
+    - Borodin's Prince Igor
+        * Music and libretto developed by Borodin with posthumous contributions from other composers
+        * Dramatic rhythm for the opera juxtaposes Russian and "oriental" (i.e. pseudo-Turkic) musical idioms. Borodin's basis for Russian national music is on intonations from the byliny and folk songs. Polovtsians represented in a musical language distinct from the Russians
+    - Rimsky-Korsakov's Sadko
+        * Subtitle "Opera-bylina"
+        * Sadko is a figure from Russian history and folklore. 12th century merchant in Novgorod who is the hero of many local byliny
+        * Harmonic fantasy -- Korsakov's (octatonic) scale
+        * Premiered on Christmas day, 1897 byt he Moscow Private Opera company
+    - Stravinsky's The Firebird and The Rite of Spring
+        * The Firebird written for the ballet russes, a Paris-based Russian ballet group
+    - Holy Fool vs. Elder as symbols
+        * Holy Fool as prophets for the fate of Russia
+            i. Fedosya most fanmous female Holy Fool
+        * Elders (of a church) are learned members of the church. Wise, giving, forgiving
