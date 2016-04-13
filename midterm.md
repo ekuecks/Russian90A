@@ -501,3 +501,45 @@ Music
         * Holy Fool as prophets for the fate of Russia
             i. Fedosya most fanmous female Holy Fool
         * Elders (of a church) are learned members of the church. Wise, giving, forgiving
+
+Mongol Invasion and Tatar Yoke
+==============================
+1. An uninvited/unexpected guest is worse than a Tatar
+2. Mongol Rule
+    - Tolerant of Orthodox faith
+    - Russia suffered psychologically and physically
+    - Russia saved Western Europe from Mongols
+    - Opened up trade routes to the East (beneficial to Russia)
+    - "Alexander Nevsky" movie in 1939 depicts the resistance of the Russians against the Mongols (name of Russia)
+3. Rise of Moscow
+    - Central location
+    - 1326 Moscow became the center of Orthodox Christianity
+    - Politically skillful princes (Ivan the money bags) gained favor with Mongol rulers
+    - Moscow as 3rd Rome
+
+Ivan the Terrible
+=================
+1. First crowned tsar of Russia (1547-1584)
+2. Ivan Grozny IV
+3. Enormous imperial expansion
+4. Oprichnina: "Secret Police" (compared to Stalin's 1930's secret police)
+5. Comparison to Stalin
+6. Last of the Rurik dynasty
+7. Reforms
+    - Prikazy (departments) including Ministry of Foreign Affairs
+    - Left Moscow and would not come back
+    - Begged him to come back
+    - Conditions
+        * Create own private army Oprichnina
+        * Power to deal with traitors as he wished
+    - Able to blackmail everyone because the tsar leaving would lead to boyars fighting and destroy Russia (predicting Time of Troubles)
+    - Oprichnina abolished in 1571 after they failed to defend Russia from a Mongol invasion
+8. Film in 1944 by Sergey Eisenstein
+9. Ivan Grozny was Stalin's favorite historic figure
+
+Tsar Feodor
+===========
+1. Son of Ivan the Terrible
+2. Childless, weak, possibly mentally challenged
+3. Tsar in name only, Boris Godunov real ruler
+4. Dies without an heir -> Time of Troubles
