@@ -420,6 +420,8 @@ Kievan Rus' (9th - 13th century)
     - Archpriest Avvakum became the leader of the Old Believers
     - Old Believers only recognize saints canonized before the schism
     - Russian Orthodoxy as the religion of the chosen people (Third Rome)
+        * Byzantium fell to the Turks in 1453
+        * Constantinople was Second Rome
     - Keeping the flame of true faith
     - Cross with 2 fingers instead of 3
     - Kneel, not just bow
@@ -505,12 +507,13 @@ Music
 Mongol Invasion and Tatar Yoke
 ==============================
 1. An uninvited/unexpected guest is worse than a Tatar
-2. Mongol Rule
+2. Mongol Rule (1237-1480)
     - Tolerant of Orthodox faith
     - Russia suffered psychologically and physically
     - Russia saved Western Europe from Mongols
     - Opened up trade routes to the East (beneficial to Russia)
     - "Alexander Nevsky" movie in 1939 depicts the resistance of the Russians against the Mongols (name of Russia)
+        * Nevsky canonized
 3. Rise of Moscow
     - Central location
     - 1326 Moscow became the center of Orthodox Christianity
@@ -536,6 +539,8 @@ Ivan the Terrible
     - Oprichnina abolished in 1571 after they failed to defend Russia from a Mongol invasion
 8. Film in 1944 by Sergey Eisenstein
 9. Ivan Grozny was Stalin's favorite historic figure
+10. Ivan killed his own son Ivan in a fit of rage
+11. Large expansion of Russia under his rule
 
 Tsar Feodor
 ===========
@@ -543,3 +548,158 @@ Tsar Feodor
 2. Childless, weak, possibly mentally challenged
 3. Tsar in name only, Boris Godunov real ruler
 4. Dies without an heir -> Time of Troubles
+
+Boris Godunov and the Times of Troubles
+=======================================
+1. Godunov was the brother-in-law of Tsar Feodor (the tsar who didn't rule)
+    - Elected tsar upon Feodor's death. Other son Dmitry was dead (killed?)
+    - Legitimacy of power has been a topic of debate in Russia for a long time
+2. Alexander Pushkin novel "Boris Godunov", opera based off of this by Mussorgsky
+3. Upon Godunov's death Russia was weakened
+    - By famine
+    - Internal fights by boyars
+    - Foreign aggression (Sweden and Poland)
+    - A Polish king on the Russian throne
+    - Russians rose to defeat enemy
+4. Election of new tsar Mikhail Romanov ended times of troubles (start of Romanov dynasty for ~300 years)
+    * His mother was one of Ivan the Terrible's wives
+5. Ivan Susanin hero of the Times of Troubles
+
+Peter the Great
+===============
+1. Moved capital to St. Petersburg (first European city in Russia)
+    - Known as the window to Europe (situated on the Baltic Sea and gained trade access)
+    - Led to 2 radically different political and cultural mythology (European city vs. Eurasian city)
+    - Forced boyars to move
+    - Moved back to Moscow in 1918 after revolution
+2. First Russian emperor
+3. The Grand Embassy
+    - Peter's tour through Europe
+    - Travelled anonymously as a Russian citizen
+    - Learned European advancements and brought them back to Russia
+4. Peter's reforms
+    - Army reform -- regular draft
+    - Built the navy
+    - Took power from the church (Synod)
+        * Council that controlled the church
+    - Separated himself and the state "the sovereign and the state"
+    - Established a Senate
+    - Table of Ranks -- non-nobles could achieve noble status through education and service (meritocracy)
+    - Established School of Mathematics and Education and Cadet Corps
+    - Students sent abroad
+    - First library and first museum, planned to open an Academy of Sciences
+    - Split society
+    - May have led to a dependence on the state
+5. Everyday reforms (affected boyars and gentry)
+    - Forced boyars to participate in social life
+    - Reform of the Russian alphabet
+    - Publishing books and newspapers
+    - New calendar
+        * Russians used to use the Julian calendar
+        * In 19th century, the Russian calendar was 12 days behind the Western European calendar
+    - Made boyars shave off beards
+    - Western dress and food
+6. Changes in food and dress
+    - European for noblemen, but still Russian for peasants
+7. Changes for women
+    - More European dress
+8. Death
+    - Died without a will
+    - His wife (a former German peasant) Catherine became empress (Catherine I)
+9. Two capitals (coronations in Moscow then ruler moved to St. Petersburg to rule)
+
+Elizabeth 1
+===========
+1. Daughter in law of Peter the Great
+2. Ruled 1741-1761
+
+Catherine the Great (II)
+========================
+1. Empire of the gentry
+2. Expansion
+    - Continued Peter the Great's expansion
+3. "Enlightened" monarch
+4. Believed in natural law, rule of reason, religious tolerance, and orderly funcitoning of government for the good of society
+5. Partition of Poland and Pale of Settlement
+6. Pugachev Rebellion
+
+Pugachev Rebellion
+==================
+1. Pretender Peter III (Catherine II's dead husband)
+    - Like false Dmitry of Times of Troubles
+2. Urals to Caspian Sea -- Cossacks and serfs flocked to him
+    - Cossacks: Slavs living in Ukraine, Southern Russia, Urals, Siberia. Joined by run-away serfs
+    - Mainly took part around the Urals
+3. Pushkin \textit{The Captain's Daughter}
+4. Cossacks
+    - Best known figure Bohdan Khmelmitsky (17th century)
+        * Leader of a Ukrainian Cossack state
+        * Signed a treaty with Russia in 1654
+
+Alexander I
+===========
+1. Known for defeating Napoleon
+2. Took the throne after his father Paul I was assassinated
+    - Allegedly his father died without his knowledge, but he probably was involved
+3. Was brought up by his grandmother (Catherine the Great) in the spirit of the Enlightenment
+4. Died December 1, 1825 without leaving a male heir
+    - His father had passed a law of primogeniture that said only males could take the throne
+
+Nicholas I (r. 1825-1855)
+=========================
+1. Abolished Serfdom 1841
+2. Third Department (Thought police) somewhat similar to Oprichnina of Ivan IV
+3. Heavy censorship of literature
+4. Orthodoxy, Autocracy, Nationality
+
+The War of 1812
+===============
+1. Known as The Patriotic War of 1812
+2. Most famous battle: Battle of Borodino
+    - Both sides suffered massive casualties
+    - Both sides claimed victory
+3. Field Marshal Mikhail Kutusov
+    - Commanded the Russian army
+4. Russian army abandoned Moscow
+    - St. Petersburg was the capital at the time
+    - Burned the city
+        * According to Tolstoy, Moscow was burned by the inhabitants who left it
+    - Felt like they could not defend Moscow (Kutusov's decision, went against tsar)
+5. Subject of Tolstoy's \textit{War and Peace}
+6. Tchaikovsky "1812"
+    - Cannon fire, bells, fanfare
+7. Tsar Alexander I
+
+Decembrist Rebellion
+====================
+1. Rebellion against Tsar Nicholas I in the beginning of his rule (December 14, 1825)
+2. First rebellion in a series of terrorist attacks and rebellions culminating in the Revolution of 1917
+3. Put down by Tsar with force in Senate Square in St. Petersburg
+4. Why?
+    - Wanted a Constitutional Monarchy
+    - They were well educated, landowners, liberals in the tradition of the Enlightenment
+    - Some wanted to abolish serfdom
+    - Preferred the more liberal brother Constantine over Nicholas
+        * Constantine refused the throne so that he could marry his wife who was not of proper status to be a tsar's wife
+
+Midterm
+=======
+1. Know who, what, when, where for artwork
+2. Review of Chronology
+    - Peter I (The great) 1689-1725
+    - Catherine II (The great) 1762-1796, Peter's granddaughter
+    - Paul I 1796-1801, Catherine II's son (assassinated)
+3. The Captain's Daughter
+    - Know main historical background
+    - Know characters and general plot
+    - Be able to identify what is happening from passages
+4. The Russia of Peter the Great
+    - Moved capital to St. Petersburg
+    - Started westernization of Russia
+    - First emperor
+    - Ushered in a period of enlightened monarchs
+        * Led to dissent of nobles and a string of rebellions culminating in the Revolution 1917
+5. Tatar Yoke
+    - Alexander Nevsky
+6. Schism
+    - Old believers
