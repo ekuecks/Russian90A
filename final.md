@@ -28,6 +28,7 @@ Alexander II
         * New class of bourgeosie
         * Raznochintsy (people of different classes/ranks of non-noble origin) who got educated and could go into gvmt service of professions
         * Led to a new 'class' of intelligentsia (educated people)
+    - Women's Rights in 60s as well
 5. Other reforms
     - Zemstvo reform (local governments)
         * Elected council headed by noblemen/gentry
@@ -46,6 +47,7 @@ Turgenev \textit{Fathers and Sons}
     - Denied authority
     - Destroy everything
     - Terrorism as a method of resistance
+        * "People's Freedom" terrorist group
 
 Non-Russians in the Russian Empire
 ==================================
@@ -61,3 +63,90 @@ Non-Russians in the Russian Empire
     - Moved in 19th century
     - Relocated back to Korea in 1937 by Stalin
 
+Peasant Life in Russia after 1861
+=================================
+1. Geographic and economic mobility
+2. Education
+3. Love
+4. Lecture based off of letters from a peasant family
+5. Background
+    - Letters written to 2 sons
+    - Class: "State peasants"
+    - Parents: No formal education
+        * Self taught "literate"
+6. What letters tell us
+    - Births and deaths: baptisms and funerals
+    - Marriages: arranged and for love
+    - Parent-child: parental power and its shifts
+    - Siblings and in-laws: seniority, cooperation, fights
+    - Religion: prayers, charity, pilgrimage, values
+    - Language: norm and dialect
+    - Daily life: food, drinking, clothing, house
+    - Economy: farming, delivery business
+    - Mobility: starvation -> wealth
+        * "horseless" in 1881 -> big steam ship owners by 1896
+        * 1886 bought 1st steam boat (6 HP, 2,600 rbl)
+        * 1892 bought 2nd steam boat (25 HP, 8,500 rbl)
+        * Opened a pub in Pazdery
+        * 1894 bought 3rd steam boat (40 HP, 19,000 rbl)
+        * Abandon farming and pub (movement against alcohol)
+        * 1896 bought a steam ship (120,000 rbl)
+7. Random stuff
+    - One woman had a child out of wedlock and was punished for it, never married either
+    - Her son Ivan was adopted
+    - Letters refer to his mother as Baushka, adopted grandmother as Babushka
+
+Russian Cuisine
+===============
+1. Variety of pies--pirogi, pirozhki
+2. Main technology used to be boiling, stewing, keeping on low heat because cooking done in a Russian stove
+3. A lot of fish
+4. A lot of restrictions by the church, no meat on certain days etc.
+5. Zakuski
+6. Vodka
+    - Traditional medieval drink: mead
+    - Vodka appeared in XIV-XV centuries
+    - From voda (Water)
+    - State had a monopoly on selling vodka
+7. Kulich -- Easter bread
+8. Know staple dishes and soups (quiz online)
+
+Painting
+========
+1. Before 18th century -- icons and folk art (lubok)
+2. 18th century -- portraits
+3. 19th century: A variety of genres (social themes, history, portraits, landscapes)
+4. Lubok -- equivalent of a comic strip
+    - Sold in markets for cheap
+5. Wanderers
+    - Wanted to paint real life and bring art to people
+    - 14 students left the Imperial Academy of Arts
+    - Formed Peredvizhniki (Wanderers) society
+    - Created Association of Travelling Art Exhibits
+    - Content over form
+    - Most famous
+        * Ilya Repin (1844-1930)
+6. "An Unexpected Return" -- Repin
+    - Exiled family member returning from exile
+7. Isaak Levitan (Landscapes)
+8. Futurism
+    - Originated in Italy
+    - Natalya Goncharova
+    - Kandinsky
+    - Malevich (Suprematism)
+9. Chagall
+    - Policies of Russification
+        * Jewish pogroms
+        * Language policies
+    - Surrealism
+    - Wanted to study art in Russia, but was Jewish so could not
+        * Went to France instead
+
+Literature
+==========
+1. Realism
+2. Symbolism
+    - Came from France
+    - Alexander Blok
+3. Futurism
+    - Mayakorvsky
