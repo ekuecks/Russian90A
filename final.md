@@ -150,3 +150,66 @@ Literature
     - Alexander Blok
 3. Futurism
     - Mayakorvsky
+4. "A poet in Russia is more than a poet"
+    - You don't have to be a poet, but your obligation is to be a citizen
+5. Pushkin, Lermontov, Gogol
+6. Gogol
+    - Born in present day Ukraine
+    - Moved to St. Petersburg at 17 to become a writer
+7. Turgenev, Goncharov, Tolstoy
+8. Tolstoy
+    - Religious crisis (excommunicated by Orthodox church in 1901)
+    - Felt that people should work for their living
+
+People and Intelligentsia
+=========================
+1. Intelligentsia
+    - Literate
+    - Populists (for the people)
+    - Zemstvo teachers and doctors
+    - Readers of thick journals
+    - Thinking of the fate of man in life/history (The Bet)
+    - Mindful of Russia;s role in history
+    - Believers in justice and fairness
+    - Typically opposed the absolute monarchy
+
+Silver Age of Russian Culture
+=============================
+1. Review: Realism
+    - Ivan Turgenev
+    - Leo Tolstoy
+    - Fyodor Dostoevsky
+2. 3 Schools of Poetry
+    - Symbolism (2 generations)
+        * 1st Bryusov and Annensky (broke with realism)
+        * 2nd Bely and Blok
+        * Art for art's sake
+        * Ushered in avant-garde
+    - Futurism (Mayakovsky and Pasternak)
+        * Mayakovsky's futurist manifesto
+    - Acmeism (Akhmatova and Mandelshtam)
+        * Valued clarity, concision, and craftsmanship
+3. Music (Scriabin, Rachmaninoff, Stravinsky)
+    - Rachmaninoff
+        * Symbolism in music
+        * Moved to USA after Russian Revolution
+    - Scriabin
+        * "The" symbolist composer
+        * Synethesia
+        * Famous for wrting music to go along with poetry, art
+4. Art
+    - Vasily Kandinsky
+        * Juxtaposition and mixing of colors
+        * Influenced artists at Bauhaus in Germany
+    - Marc Chagall
+        * Flying people, village scenes
+    - Suprematism
+        * A lot of geometric shapes
+
+#include <sys/server.h>
+
+The Bet (Chekhov)
+=================
+1. Banker challenges  guy to live in isolation for 15 years, no human contact
+2. The man reads a shitload
+3. In the end, he has come to hate everything about the outside world and gives up just hours before the bet ends, forfeiting 2 million rubles
