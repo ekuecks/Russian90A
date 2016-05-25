@@ -1,3 +1,6 @@
+12:00 - 12:50 Bunche 3156
+1:00 - 3:00 Humanities 326B
+
 Alexander II
 ============
 1. Russian Society before 1861
@@ -206,10 +209,74 @@ Silver Age of Russian Culture
     - Suprematism
         * A lot of geometric shapes
 
-#include <sys/server.h>
-
 The Bet (Chekhov)
 =================
 1. Banker challenges  guy to live in isolation for 15 years, no human contact
 2. The man reads a shitload
 3. In the end, he has come to hate everything about the outside world and gives up just hours before the bet ends, forfeiting 2 million rubles
+
+Chekhov
+=======
+1. Short story writer -- influenced the evolution of the modern short story
+2. Playwright (early modernism in theater)
+3. Was a practicing doctor
+4. 6 principles of a good short story
+    - Avoid long discourses on social issues
+    - True descriptions
+    - Should be objective
+    - As brief as possible
+    - Audacious and original
+    - Should exhibit compassion
+5. Most famous plays
+    - The Seagull
+    - Uncle Vanya
+6. The Cherry Orchard
+    - Watch Act I, III for final
+    - Last play Chekhov ever wrote
+    - Metaphor for Russia on the turn of the century
+    - Characters
+        * Lubov Ranevsky -- Owner of the estate who comes back from France (in debt)
+        * Leonid Gaev -- her brother
+        * Ermolai Lopakhin -- Former serf who got rich and purchases orchard at the end
+        * Petya Trofimov -- Revoutionary student
+        * Anya -- Daughter of Lubov
+        * Varya -- Stepdaughter of Lubov
+
+End of the Empire
+=================
+1. Lermentov
+    - Predicted end of the empire would eventually come (1830), "Black Day"
+2. Bloody Sunday (1/9/1905)
+    - Thousands of protesters arrived to give a petition to the Tsar for representative government and worker's rights
+    - Not a political movement
+    - Guards opened fire on the protesters as the tsar was out of town and they would not leave until they gave him the petition personally
+3. Nicholas II
+    - Son Alexei was sick (hemophilia)
+        * Brought in a miracle worker Rasputin who 'stopped' Alexei from hemorrhaging
+    - Tsar 1894-1917
+    - Became tsar unexpectedly after his father died
+    - Married a German princess Alice, Queen Victoria's granddaughter
+    - Believer in absolute monarchy and his responsibility to the people
+    - 1905 Nicholas II Manifesto (attempt at a constitution)
+4. Russo-Japanese War (1904-1905)
+    - Russia wanted access to a warm port on Pacific Ocean
+5. First Russian Revolution (1905)
+    - Worker strike, peasant unrest, mutiny etc.
+6. Grigory Rasputin
+    - Adviser to Queen
+7. Pyotr Stolypin: Prime Minister 1906-1911
+    - Crack down on terror
+    - Proposed agrarian reform
+    - Development of large-scale individual farming
+    - Development of agricultural education
+    - Affordable lines of credit for peasants
+    - 11 assassination attempts (eventually successful)
+8. What led to the revolution
+    - Societal changes and social dislocation of peasants
+    - Inadequate agrarian laws and practices
+    - Weakening of religious faith
+    - New and insecure middle class
+    - Industrial expansion/working conditions in factories
+    - Loss of prestige in monarchy
+    - WWI
+
